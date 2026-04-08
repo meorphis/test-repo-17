@@ -3,7 +3,7 @@
 organization:
   # Name of your organization or company, used to determine the name of the client
   # and headings.
-  name: stainless5
+  name: stainless6
   # Link to your API documentation.
   docs: 'https://www.stainless.com/docs/getting-started/quickstart-cli'
   # Contact email for bug reports, questions, and support requests.
