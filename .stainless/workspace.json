@@ -1,0 +1,11 @@
+{
+  "name": "stainless-v0",
+  "openapi_spec": "openapi.yml",
+  "stainless_config": "stainless.yml",
+  "targets": {
+    "typescript": {
+      "output_path": "../dist/stainless-v0-typescript",
+      "production_repo": "https://github.com/stainless-api/stainless-api-typescript"
+    }
+  }
+}
